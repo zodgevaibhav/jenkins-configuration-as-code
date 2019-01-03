@@ -14,7 +14,7 @@ agentList.eachLine
             agentHome,                  // Workspace on the agent's computer
             agentExecutors,             // Number of executors
             Mode.EXCLUSIVE,             // "Usage" field, EXCLUSIVE is "only tied to node", NORMAL is "any"
-            "",                         // Labels
+            "CORDOVA_WINDOWS",                         // Labels
             new JNLPLauncher(),         // Launch strategy, JNLP is the Java Web Start setting services use
             RetentionStrategy.INSTANCE) // Is the "Availability" field and INSTANCE means "Always"
 

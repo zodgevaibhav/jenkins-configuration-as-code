@@ -1,0 +1,16 @@
+https://github.com/Accenture/adop-jenkins
+https://github.com/kenych/jenkins_docker_pipeline_tutorial1
+https://gist.github.com/aespinosa/6bd1b8d2d65aed2179de
+
+https://dzone.com/articles/dockerizing-jenkins-2-setup-and-using-it-along-wit
+
+Cordova Build
+	https://docs.microsoft.com/en-us/visualstudio/cross-platform/tools-for-cordova/build-deploy/jenkins?view=toolsforcordova-2017
+	http://ryanjsalva.com/2016/04/25/continuous-integration-for-cordova-apps.html
+
+
+downloads
+	node
+		https://nodejs.org/dist/latest/
+	maven
+		http://apache.mirror.anlx.net/maven/maven-3/3.6.0/binaries/
